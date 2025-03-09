@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### В планах
 - Стать опытным бэкенд-разработчиком и освоить современные инструменты DevOps.
-- Углубиться в изучение PHP и Java для создания более комплексных и высоконагруженных приложений.
+- Учить elixir выйти в фреймворки и писать высоконагруженные приложения 
 
 ### Технологии и навыки
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ### 📊 Статистика GitHub
 
